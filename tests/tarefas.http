@@ -1,0 +1,4 @@
+GET https://automatic-space-system-pjrw55prq7wx397gr-3000.app.github.dev/api/tarefas
+
+###
+POST  https://automatic-space-system-pjrw55prq7wx397gr-3000.app.github.dev/api/tarefas
